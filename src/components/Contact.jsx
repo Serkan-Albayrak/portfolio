@@ -19,7 +19,7 @@ export default function Contact() {
                 >
                     <p><span className="font-semibold text-green-500">Name:</span> Fereç Serkan Albayrak</p>
                     <p><span className="font-semibold text-green-500">Email:</span> <a href="mailto:serkanalbayrak47@gmail.com" className="text-gray-300 hover:text-green-400 transition">serkanalbayrak47@gmail.com</a></p>
-                    <p><span className="font-semibold text-green-500">Phone:</span> +90 5XX XXX XXXX</p>
+                    <p><span className="font-semibold text-green-500">Phone:</span> +90 552 853 0047</p>
                     <p><span className="font-semibold text-green-500">Location:</span> Türkiye, İstanbul</p>
                 </div>
 
