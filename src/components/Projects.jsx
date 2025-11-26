@@ -8,8 +8,8 @@ const projects = [
             "AI-powered counting and identification system using Google Cloud Vision and React Native.",
         tech: "React Native • Google Cloud Vision • Node.js",
         link: "https://github.com/keremkurtulus77/HowMany",
-        image: "/howmany-cover.jpg",
-        logo: "/howmany-logo.png",
+        image: "/howmanyft.png",
+        logo: "/howmanylogo.png",
     },
     {
         title: "Portfolio Website",
@@ -17,16 +17,16 @@ const projects = [
             "Personal portfolio site built with React and Tailwind CSS.",
         tech: "React • Tailwind CSS • Vite",
         link: "#",
-        image: "/portfolio-cover.jpg",
-        logo: "/portfolio-logo.png",
+        image: "/portfolio.png",
+        logo: "/sa2.png",
     },
     {
         title: "Social Media Links Website",
         description: "A website that showcases various social media links.",
         tech: "HTML5 • CSS3 • Web Design",
         link: "https://serkanalbayrak-socialmedialinks.netlify.app/",
-        image: "/project3-cover.jpg",
-        logo: "/project3-logo.png",
+        image: "/smlfoto.png",
+        logo: "/sa.png",
     },
 ];
 
